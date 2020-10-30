@@ -68,6 +68,8 @@ p {
     line-height: 1.4;
 }
 
+/* Main Styling Begins */
+/* Header Section */
 
 header{
     width: 800px;
@@ -86,6 +88,9 @@ header{
     color: black;
 }
 
+/* Main Body Section Below */
+
+
 .container {
     width: 800px;
     margin: 0 auto;
@@ -95,6 +100,8 @@ header{
     padding:2%;
     border-bottom: 1px dotted black;
 }
+
+/* Main Section with 4 subsections */
 
 .main-section{
     display: flex;
@@ -166,9 +173,13 @@ header{
     padding-top: 3%;
 }
 
+/* Bottom of main */
+
 .bottom-section{
     padding: 4%;
 }
+
+/* Footer section */
 
 footer {
     width: 100%;
